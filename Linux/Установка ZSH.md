@@ -10,6 +10,10 @@ sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/ins
 
 3. Ставим пропатченные шрифты [MesloLGS](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k)
 
+~~~
+yay -S ttf-meslo-nerd-font-powerlevel10k
+~~~
+
 4. Клонируем репу PowerLevel10K от romkatv
 ~~~
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k"
