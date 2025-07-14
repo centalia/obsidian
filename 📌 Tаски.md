@@ -22,8 +22,8 @@
 #### Эффекты и анимация
 - [ ] [[transition]] — плавные изменения
 - [ ] [[animation]] — ключевые кадры
-- [ ] [[filter]] — графические эффекты (blur, grayscale)
-- [ ] [[transform]] — трансформация (scale, rotate и пр.)
+- [x] [[filter]] — графические эффекты (blur, grayscale)
+- [x] [[transform]] — трансформация (scale, rotate и пр.)
 
 #### Специфика и особенности
 - [ ] [[stacking context]] — как работает наложение элементов
