@@ -1,4 +1,4 @@
-### 4.1 GNOME в стиле Aqua
+ce### 4.1 GNOME в стиле Aqua
 
 - Для начала ставим sassc, gnome-tweaks, gnome-shell-extension-manager
 ~~~
@@ -66,7 +66,7 @@ sudo pacman -S sassc gnome-tweaks && yay -S extension-manager
 
 - Устанавливаем тему
 ~~~
-`./install.sh -d`
+./install.sh -o normal -c dark -a normal -t orange -s nord -m -N mojave -l -HD --shell -i arch --round --darker
 ~~~
 
 - Твикаем тему 
