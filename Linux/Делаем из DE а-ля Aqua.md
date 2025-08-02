@@ -89,7 +89,7 @@ sudo ./tweaks.sh --firefox flat
 
 - Ставим пак иконок
 ~~~
-./install.sh -t orange -a -b
+./install.sh -t orange -b
 ~~~
 
 - Ставим кастомный курсор
