@@ -1,4 +1,6 @@
-ce### 4.1 GNOME в стиле Aqua
+### 4.1 GNOME в стиле Aqua
+
+>Данную заметку можно использовать для настройки Cinammon
 
 - Для начала ставим sassc, gnome-tweaks, gnome-shell-extension-manager
 ~~~
@@ -43,6 +45,8 @@ sudo ./tweaks.sh --firefox flat
 ~~~
 
 ### 4.2 GNOME в стиле Aqua Liqiud Glass
+
+>Данную заметку можно использовать для настройки Cinammon
 
  Для начала ставим sassc, gnome-tweaks, gnome-shell-extension-manager
 ~~~

@@ -57,6 +57,7 @@
 - [ ] Расписать про Hyprland 
 - [ ] Перевести статью о Fedora Virtualization ([ссылка](https://docs.fedoraproject.org/en-US/quick-docs/virtualization-getting-started/))  
 - [ ] Поковырять Minista 
+- [ ] Сделать заметку про настройку Git в Obsidian
 ---
 ### Почитать
 - [ ] Прочитать 1 том "Гачиакуты"  
@@ -82,4 +83,5 @@
 	- [ ] for
 	- [ ] for...in
 - [x] Функции
+- [ ] Объекты
 ---
