@@ -77,10 +77,12 @@ git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1 && cd 
 
 - Твикаем тему 
 ~~~
-sudo ./tweaks.sh -o normal -c dark -t orange -s nord 
-sudo ./tweaks.sh --gdm -i arch 
+sudo ./tweaks.sh -o normal -c dark -t orange -s nord &&
+sudo ./tweaks.sh --gdm -i arch &&
 sudo ./tweaks.sh --firefox flat
 ~~~
+
+> Если не стоит GDM то твики `--gdm` не нужны
 
 - Ставим пак иконок
 ~~~
