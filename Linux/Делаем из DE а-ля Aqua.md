@@ -53,11 +53,14 @@ sudo ./tweaks.sh --firefox adaptive
 sudo pacman -S sassc gnome-tweaks && yay -S extension-manager
 ~~~
 
-- Клонируем **[Tahoe GTK Theme](`https://github.com/kayozxo/GNOME-macOS-Tahoe`)**,
+- Клонируем **[MacTahoe GTK Theme](`https://github.com/kayozxo/GNOME-macOS-Tahoe`)**, **[MacTahoe-icon-gtk](https://github.com/vinceliuice/MacTahoe-icon-theme.git)**
 ~~~
 git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1 && cd MacTahoe-gtk-theme
 ~~~
 
+```
+git clone https://github.com/vinceliuice/MacTahoe-icon-theme.git && cd MacTahoe-icon-theme
+```
 - Ставим твики
 	- [blur-my-shell](https://extensions.gnome.org/extension/3193/blur-my-shell)
 	- [user-themes](https://extensions.gnome.org/extension/19/user-themes/)
