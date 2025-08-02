@@ -31,7 +31,7 @@ git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git && git clone ht
 ~~~
 sudo ./tweaks.sh -o normal -c dark -t orange -s nord 
 sudo ./tweaks.sh --gdm -i arch 
-sudo ./tweaks.sh --firefox flat
+sudo ./tweaks.sh --firefox adaptive
 ~~~
 
 - Ставим пак иконок
