@@ -70,8 +70,10 @@ git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1 && cd 
 
 - Устанавливаем тему
 ~~~
-./install.sh -o normal -c dark -a normal -t orange -s nord -m -N mojave -l -HD --shell -i arch --round --darker
+./install.sh -o normal -c dark -a normal -t orange -s nord -l -HD --shell -i arch --round --darker
 ~~~
+
+> Для Cinnamon твики после `--shell` не нужны
 
 - Твикаем тему 
 ~~~
