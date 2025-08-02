@@ -53,7 +53,7 @@ sudo ./tweaks.sh --firefox adaptive
 sudo pacman -S sassc gnome-tweaks && yay -S extension-manager
 ~~~
 
-- Клонируем **[Tahoe GTK Theme](`https://github.com/kayozxo/GNOME-macOS-Tahoe`)**
+- Клонируем **[Tahoe GTK Theme](`https://github.com/kayozxo/GNOME-macOS-Tahoe`)**,
 ~~~
 git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1 && cd MacTahoe-gtk-theme
 ~~~
