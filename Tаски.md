@@ -5,7 +5,7 @@
 - [x] Разобрать `align-content` ([статья](obsidian://open?vault=Obsidian&file=HTML%2C%20CSS%2C%20JS%2FCSS%2FDisplay%2FFlexbox))
 - [ ] Изучить SASS 
 - [ ] Изучить PostCSS 
-- [x] Изучить HTMX  
+- [ ] Изучить HTMX  
 - [x] Организация отступов
 - [ ] Разобрать `object-*` и `background-*` свойства 
 	- [ ] `object-*`
