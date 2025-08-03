@@ -61,15 +61,6 @@ git clone https://github.com/vinceliuice/MacTahoe-gtk-theme.git --depth=1 && cd 
 ```
 git clone https://github.com/vinceliuice/MacTahoe-icon-theme.git && cd MacTahoe-icon-theme
 ```
-- Ставим твики
-	- [blur-my-shell](https://extensions.gnome.org/extension/3193/blur-my-shell)
-	- [user-themes](https://extensions.gnome.org/extension/19/user-themes/)
-	- [search-light](https://extensions.gnome.org/extension/5489/search-light/)
-	- [gnome-4x-ui-improvements](https://extensions.gnome.org/extension/4158/gnome-40-ui-improvements/)
-	- [quick-settings-audio-panel](https://extensions.gnome.org/extension/5940/quick-settings-audio-panel/)
-	- [compiz-alike-magic-lamp-effect/](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
-	- [compiz-windows-effect](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
-	- [coverflow-alt-tab](https://extensions.gnome.org/extension/97/coverflow-alt-tab/)
 
 - Устанавливаем тему
 ~~~
@@ -90,9 +81,4 @@ sudo ./tweaks.sh --firefox flat
 - Ставим пак иконок
 ~~~
 ./install.sh -t orange -b
-~~~
-
-- Ставим кастомный курсор
-~~~
-./install.sh
 ~~~
