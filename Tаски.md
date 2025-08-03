@@ -1,5 +1,10 @@
 
 ---
+
+### Настройка Arch
+- [ ] Разобраться с zram-generator
+- [ ] Разобраться почему не собирается Ananicy CPP
+---
 ## CSS  
 - [x] Изучить медиазапросы ([MDN](https://developer.mozilla.org/ru/docs/Web/CSS/@media))
 - [x] Разобрать `align-content` ([статья](obsidian://open?vault=Obsidian&file=HTML%2C%20CSS%2C%20JS%2FCSS%2FDisplay%2FFlexbox))
@@ -85,6 +90,3 @@
 - [x] Функции
 - [ ] Объекты
 ---
-### Настройка Arch
-- [ ] Разобраться с zram-generator
-- [ ] 
