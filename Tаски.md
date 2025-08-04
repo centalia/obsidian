@@ -84,9 +84,8 @@
 	- [ ] switch
 - [ ] Циклы
 	- [ ] for
-	- [ ] do...while
-	- [ ] for
-	- [ ] for...in
+	- [ ] break & continue
+	- [ ] while do while
 - [x] Функции
 - [ ] Объекты
 - [ ] Массивы
