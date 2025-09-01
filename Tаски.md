@@ -3,7 +3,7 @@
 
 ---
 ## CSS  
-- [x] Изучить медиазапросы ([MDN](https://developer.mozilla.org/ru/docs/Web/CSS/@media))
+- [ ] Изучить медиазапросы ([MDN](https://developer.mozilla.org/ru/docs/Web/CSS/@media))
 - [x] Разобрать `align-content` ([статья](obsidian://open?vault=Obsidian&file=HTML%2C%20CSS%2C%20JS%2FCSS%2FDisplay%2FFlexbox))
 - [ ] Изучить SASS 
 - [ ] Изучить PostCSS 
@@ -42,8 +42,8 @@
 - [ ] [[clip-path]] — вырезание элементов нестандартной формы
 ---
 ## Bootstrap  
-- [x] Переписать навбар на Bootstrap
-- [x] Изучить breakpoints Bootstrap 
+- [ ] Переписать навбар на Bootstrap
+- [ ] Изучить breakpoints Bootstrap 
 - [ ] Разобрать контейнеры Bootstrap  
 ---
 ## Видео (Сабнаутика)  
